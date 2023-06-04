@@ -5,7 +5,7 @@
 #### Usage
 Make sure you already have DOSBox installed. Locate the right directory and run the following commands to clone the repo:
 ```
-git clone [https://github.com/kitan23/NEAT_flappy_bird.git](https://github.com/kitan23/Google-Dinosaur.git)
+git clone https://github.com/kitan23/Google-Dinosaur.git
 ```
 
 ### Simply run 
